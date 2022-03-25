@@ -2,7 +2,7 @@
     - 30+ years as an IT professional
     - Air Force Veteran
     - Resides in Aurora, IL
-- 👀 Pssions:
+- 👀 Passions:
     - All things computer related
     - Photography
     - I’m interested in Python, Rust, Linux and OpenSource software
