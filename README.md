@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobossler
-    - 30+ years as an IT professional
+    - 35+ years as an IT professional
     - Air Force Veteran
     - Resides in Aurora, IL
 - 👀 Passions:
