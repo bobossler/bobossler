@@ -5,8 +5,8 @@
 - 👀 Passions:
     - All things computer related
     - Photography
-    - I’m interested in Python, Rust, Linux and OpenSource software
-- 🌱 I’m currently learning Python & Rust
+    - I’m interested in Go, Python, Rust, Linux and OpenSource software
+- 🌱 I’m currently learning Go, a little Rust, and brushing up on Python
 
 <!---
 - 💞️ I’m looking to collaborate on ...
